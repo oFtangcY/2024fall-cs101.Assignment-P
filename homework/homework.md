@@ -17,7 +17,7 @@ else:
 
 ###### result: AC
 
-![image-20240910165949447](C:\Users\36057\AppData\Roaming\Typora\typora-user-images\image-20240910165949447.png)
+![02733](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/02733.png)
 
 ##### 02750: 鸡兔同笼
 
@@ -38,7 +38,7 @@ else:
 
 ###### result: AC
 
-![image-20240910170503021](C:\Users\36057\AppData\Roaming\Typora\typora-user-images\image-20240910170503021.png)
+![02750](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/02750.png)
 
 ##### 50A. Domino piling
 
@@ -54,7 +54,7 @@ print(n)
 
 ###### result: AC
 
-![image-20240910171117534](C:\Users\36057\AppData\Roaming\Typora\typora-user-images\image-20240910171117534.png)
+![50A](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/50A.png)
 
 ##### 1A. Theatre Square
 
@@ -70,7 +70,7 @@ print(result)
 
 ###### result: AC
 
-![image-20240910171507291](C:\Users\36057\AppData\Roaming\Typora\typora-user-images\image-20240910171507291.png)
+![1A](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/1A.png)
 
 ##### 112A. Petya and Strings
 
@@ -93,7 +93,7 @@ for i in range(0, n):
 
 ###### result: AC
 
-![image-20240910171808317](C:\Users\36057\AppData\Roaming\Typora\typora-user-images\image-20240910171808317.png)
+![112A](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/02733.png)
 
 ##### 231A. Team
 
@@ -112,8 +112,8 @@ print(num)
 
 ###### result: AC
 
-![image-20240910172003975](C:\Users\36057\AppData\Roaming\Typora\typora-user-images\image-20240910172003975.png)
+![231A](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/02733.png)
 
 #### 学习总结和收获
 
-所有题我都做了——题有点简单，但开始打字速度要求有点高。
+所有题我都做了——题有点简单，但打字速度要求有点高。
