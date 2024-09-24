@@ -20,7 +20,7 @@ for i in range(5):
         print(abs(r - 2) + abs(i - 2))
 ```
 
-![263A](263A-1727170649094-5.png)
+![263A]([263A-1727170649094-5.png](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/263A.png))
 
 ### 1328A. Divisibility Problem
 
