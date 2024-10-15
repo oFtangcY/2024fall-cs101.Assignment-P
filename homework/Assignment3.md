@@ -46,7 +46,7 @@ print(plaintext)
 
 代码运行截图 ==（至少包含有"Accepted"）==
 
-![E28674](E28674.png)
+![E28674](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/E28674.png)
 
 
 
@@ -64,7 +64,7 @@ print(int(a[0:2]) + int(b[0:2]))
 
 代码运行截图 ==（至少包含有"Accepted"）==
 
-![E28691](E28691.png)
+![E28691](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/E28691.png))
 
 
 
@@ -106,7 +106,7 @@ for _ in range(n):
 
 代码运行截图 ==（AC代码截图，至少包含有"Accepted"）==
 
-![M28664](M28664.png)
+![M28664](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/M28664.png)
 
 
 
@@ -137,7 +137,7 @@ print('End')
 
 代码运行截图 ==（AC代码截图，至少包含有"Accepted"）==
 
-![M28678](M28678.png)
+![M28678](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/M28678.png)
 
 
 
@@ -195,7 +195,7 @@ else:
 
 代码运行截图 ==（AC代码截图，至少包含有"Accepted"）==
 
-![M28700](M28700.png)
+![M28700](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/M28700.png)
 
 
 
@@ -267,7 +267,7 @@ while 0 in check:
 
 代码运行截图 ==（AC代码截图，至少包含有"Accepted"）==
 
-![T25353](T25353.png)
+![T25353](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/T25353.png)
 
 
 
