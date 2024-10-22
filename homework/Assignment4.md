@@ -73,7 +73,7 @@ for i in range(n):
 
 代码运行截图  <mark>（至少包含有"Accepted"）</mark>
 
-![](160A.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/160A.png)
 
 
 
@@ -99,7 +99,7 @@ for _ in range(t):
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](1879B.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/1879B.png)
 
 
 
@@ -132,7 +132,7 @@ print(taxi)
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](158B.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/158B.png)
 
 
 
@@ -223,9 +223,9 @@ for i in map(int, input().split()):
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](230B(euler_seive).png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/230B(euler_seive).png)
 
-![](230B(era_sieve).png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/230B(era_sieve).png)
 
 ### *12559: 最大最小整数 （选做）
 
@@ -264,7 +264,7 @@ print(max_num, min_num)
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](12559.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/12559.png)
 
 
 
