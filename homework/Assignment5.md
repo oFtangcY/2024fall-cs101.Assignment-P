@@ -51,7 +51,7 @@ while True:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](04148.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/04148.png)
 
 
 
@@ -94,7 +94,7 @@ print(weapon_more)
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](18211.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/18211.png)
 
 
 
@@ -131,7 +131,7 @@ print('{:.2f}'.format(avr_t))
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](21554.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/21554.png)
 
 
 
@@ -183,7 +183,7 @@ print('\n'.join(result))
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](01008.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/01008.png)
 
 
 
@@ -227,7 +227,7 @@ print(fallen_tree)
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](545C.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/545C.png)
 
 
 
@@ -285,7 +285,7 @@ while True:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](01328.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/01328.png)
 
 
 
