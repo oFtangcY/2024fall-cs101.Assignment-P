@@ -12,4 +12,5 @@ n = int(input())
 h_1 = list(map(int, input().split()))
 h_2 = list(map(int, input().split()))
 
-print(chooseplayers(n, h_1, h_2))
+ans = chooseplayers(n, h_1, h_2)
+print(ans)
