@@ -1,31 +1,27 @@
-def maxCover(dp):
-    dp.sort(keys=lambda x:x[1])
-    cnt = 1
-    ed = dp[0][1]
+def matchsum(a, n):
+    q = set()
+    q.add(0)
+    suma = 0
+    cnt = 0
 
-    for i in range(1, n):
-        if dp[i][0] > ed:
-            ed = dp[i][1]
-            if ed != n:
-                cnt += 1
+    for i in range(n):
+        suma += a[i]
+        if suma in q:
+            q.clear()
+            cnt += 1
+        q.add(suma)
 
     return cnt
 
 
-t = int(input())
-for _ in range(t):
-    n = int(input())
-    a = list(map(int, input().split()))
+if __name__ == "__main__":
 
-    all = []
-    dp = [[i, n] for i in range(n)]
-    for i in range(n):
-        suma = 0
-        for j in range(i, n):
-            suma += a[j]
-            if suma == 0:
-                dp[i][1] = j
-                break
+    t = int(input())
+    ans = []
+    for _ in range(t):
+        n = int(input())
+        a = list(map(int, input().split()))
+        
+        ans.append(str(matchsum(a, n)))
 
-    print(maxCover(dp))
-    
+    print('\n'.join(ans))
