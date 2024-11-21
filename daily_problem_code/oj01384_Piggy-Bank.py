@@ -1,7 +1,7 @@
 def budget(weight, coins):
     M = float('INF')
     ww = list(coins.keys())
-    dp = [0] + [M]*weight
+    dp = [0] + [M]*max(weight, max(ww))
     for w in ww:
         dp[w] = coins[w]
 
