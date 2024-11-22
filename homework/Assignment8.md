@@ -65,7 +65,7 @@ print(count)
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](12558.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/12558.png)
 
 
 
@@ -117,7 +117,7 @@ class Solution:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](LC54.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/LC54.png)
 
 
 
@@ -152,7 +152,7 @@ print(rubbish.count(max_rubbish), max_rubbish)
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](04133.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/04133.png)
 
 
 
@@ -206,7 +206,7 @@ class Solution:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](LC376.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/LC376.png)
 
 
 
@@ -290,7 +290,7 @@ print(delete(count))
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](455A.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/455A.png)
 
 
 
@@ -344,7 +344,7 @@ while True:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](02287.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/02287.png)
 
 
 
