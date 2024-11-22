@@ -46,7 +46,7 @@ print('\n'.join(hanoi_tower(n, 'A', 'C', 'B')))
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](hanoi_tower.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/hanoi_tower.png)
 
 
 
