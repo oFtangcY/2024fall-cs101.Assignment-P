@@ -89,7 +89,7 @@ for arr in result:
 
 代码运行截图 ==（至少包含有"Accepted"）==
 
-![](full_arrange.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/full_arrange.png)
 
 
 
@@ -138,7 +138,7 @@ if __name__ == '__main__':
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](interceppt_missiles.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/interceppt_missiles.png)
 
 
 
@@ -177,7 +177,7 @@ print(choose_item(n, b, price, weight))
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](the_thiefs_bag.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/the_thiefs_bag.png)
 
 
 
@@ -214,7 +214,7 @@ for _ in range(n):
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](eight_queens.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/eight_queens.png)
 
 
 
@@ -248,7 +248,7 @@ print(cut(n, a, b, c))
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](CutRibbon.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/CutRibbon.png)
 
 
 
