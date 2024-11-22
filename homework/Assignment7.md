@@ -55,7 +55,7 @@ print('\n'.join(young))
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](E07618.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/E07618.png)
 
 
 
@@ -102,7 +102,7 @@ if __name__ == '__main__':
 
 代码运行截图 ==（至少包含有"Accepted"）==
 
-![](E23555.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/E23555.png)
 
 
 
@@ -147,9 +147,9 @@ if __name__ == '__main__':
 
 
 
-代码运行截图 <mark>（至少包含有"Accepted"）</mark>
+代码运行截图 <mark>（至少包含有"Accepted"）[</mark>
 
-![](M18182.png)
+![](](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/)M18182.png)
 
 
 
@@ -193,7 +193,7 @@ if __name__ == '__main__':
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](M28780.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/M28780.png)
 
 
 
@@ -247,7 +247,7 @@ if __name__ == '__main__':
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](T12757.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/T12757.png)
 
 
 
@@ -288,7 +288,7 @@ if __name__ == '__main__':
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](T16528.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/T16528.png)
 
 
 
