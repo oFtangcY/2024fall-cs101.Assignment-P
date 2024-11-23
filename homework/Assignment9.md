@@ -63,7 +63,7 @@ if __name__ == '__main__':
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](18160.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/18160.png)
 
 
 
@@ -114,7 +114,7 @@ if __name__ == '__main__':
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](19930.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/19930.png)
 
 
 
@@ -163,7 +163,7 @@ if __name__ == "__main__":
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](04123.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/04123.png)
 
 
 
@@ -219,7 +219,7 @@ if __name__ == "__main__":
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](sy316-1732376195853-5.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/sy316.png)
 
 
 
@@ -254,7 +254,7 @@ class Solution:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](LC62.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/LC62.png)
 
 
 
@@ -294,7 +294,7 @@ if __name__ == "__main__":
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](D:/Courses/Fall2024/Computing(B)cs101-Yanhongfei/新建文件夹/sy358.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/sy358.png)
 
 
 
