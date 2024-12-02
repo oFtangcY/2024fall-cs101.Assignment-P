@@ -43,7 +43,7 @@ print(dp[N])
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](P1255.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/P1255.png)
 
 
 
@@ -72,7 +72,7 @@ print(dp[N])
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](oj27528.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/oj27528.png)
 
 
 
@@ -117,7 +117,7 @@ if __name__ == "__main__":
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](LC5.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/474D.png)
 
 
 
@@ -159,7 +159,7 @@ class Solution:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](LC5-1733155893141-6.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/LC5.png)
 
 
 
@@ -244,7 +244,7 @@ if __name__ == "__main__":
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](oj12029.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/oj12029.png)
 
 
 
@@ -332,7 +332,7 @@ if __name__ == "__main__":
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](oj02802.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/oj02802.png)
 
 
 
