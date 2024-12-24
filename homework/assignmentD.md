@@ -89,7 +89,7 @@ if __name__ == '__main__':
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](02692.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/02692.png)
 
 
 
@@ -144,7 +144,7 @@ if __name__ == '__main__':
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](01088.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/01088.png)
 
 
 
@@ -209,7 +209,7 @@ if __name__ == '__main__':
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](25572.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/25572.png)
 
 
 
@@ -263,7 +263,7 @@ if __name__ == '__main__':
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](27373.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/27373.png)
 
 
 
@@ -309,7 +309,7 @@ for change_row_1 in product(range(2), repeat=6):
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](02811.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/02811.png)
 
 
 
@@ -425,7 +425,7 @@ if __name__ == '__main__':
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![](08210.png)
+![](https://github.com/oFtangcY/2024fall-cs101-personal/blob/main/homework/fig/08210.png)
 
 
 
